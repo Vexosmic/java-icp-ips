@@ -5,13 +5,11 @@ This is just for tracking, keeping a record of questions discussed, and a way to
 ## Folder Structure Overview
 
 java-icp-ips/
-│
 ├── icp/
 │   ├── lab/
-│   │   └── [DD-MM]/        <-- Folders named by class date
-│   │
+│   │   └── [DD-MM]/
 │   └── theory/
 │       └── [DD-MM]/
-│
 └── ips/
     └── [DD-MM]/
+
